@@ -4,10 +4,11 @@ Ein JS/HTML/Canvas Spiel, welches an MortalKombat/Tekken/Streetfighter/und ähnl
 
 ## Installation
 
-Zip herunterladen und entpacken.
+Einfach dem Link folgen!
+
 ## Usage
 
-Die index.html öffnen und Spaß haben!
+Start Game -> Klicken und Spaß haben!
 
 ## Contributing
 
